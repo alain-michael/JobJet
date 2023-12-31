@@ -9,9 +9,3 @@ This program has features that help you create a profile, log in, post a job if 
 2. Start the application
    `python3 main.py`
 3. Use the menus to navigate the application
-## Contributors
-- Alain Michael Muhirwa
-- Chimdalu Akunyiba
-- Ian Ganza
-- Yvan Muhirwa
-- Christian Iradukunda
